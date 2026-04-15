@@ -1,0 +1,10 @@
+echo "bin/
+obj/
+*.log
+*.user
+*.vspscc
+*.suo
+*.tmp
+*.cache
+*.dll
+*.exe" > .gitignore
