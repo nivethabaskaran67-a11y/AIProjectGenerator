@@ -1,4 +1,5 @@
-echo "bin/
+# Backend
+bin/
 obj/
 *.log
 *.user
@@ -7,4 +8,9 @@ obj/
 *.tmp
 *.cache
 *.dll
-*.exe" > .gitignore
+*.exe
+
+# Frontend
+node_modules/
+build/
+.env
