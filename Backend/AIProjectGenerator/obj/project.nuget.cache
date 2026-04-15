@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "55wwrlm4FBc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kalai\\Documents\\AIProjectGenerator\\AIProjectGenerator\\AIProjectGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kalai\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\kalai\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
